@@ -1,0 +1,1 @@
+// React component for displaying and editing table data
